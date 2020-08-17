@@ -66,19 +66,19 @@ http://203.153.218.28:9981/stream/channelid/2038175895?ticket=851317AB04C0CADDD2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GAJlOtB.png" group-title="MOVIE",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XXH5yYc.jpg" group-title="MOVIE",Fox Family Movies
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+http://103.47.132.165/PLTV/88888888/224/3221227117/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7yAm3c.jpg" group-title="MOVIE",Fox Movies
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
+http://103.47.132.165:80/PLTV/88888888/224/3221227119/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s8qFOa8.jpg" group-title="MOVIE",Fox Action Movies
-http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
+http://103.47.132.165/PLTV/88888888/224/3221227121/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k665R8p.jpg" group-title="MOVIE",Fox Crime
-http://mantul.biz.id:8888/andrew/andrew/36
+http://103.47.132.165/PLTV/88888888/224/3221227165/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9GTWCa.png" group-title="MOVIE",FOX ID
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=49DA2BA4E5AD744321A0A9A18B14BBD86901A8A2&profile=pass
+http://103.47.132.165/PLTV/88888888/224/3221227137/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XljujbQ.png" group-title="MOVIE",FOX Life
-http://202.163.117.6:9981/stream/channelid/616453088?ticket=C53E7B5362920D522AFDFED277BF8056B3870B51&profile=pass
+http://103.47.132.165/PLTV/88888888/224/3221227277/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k36Ltia.png" group-title="MOVIE",FX
-http://securetv.net:8080/vMqxnQ5x5k/7053514584/15918
+http://103.47.132.165/PLTV/88888888/224/3221227139/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kGkAUK1.jpg" group-title="MOVIE",FXX
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/15917
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3HnmcgD.jpg" group-title="MOVIE",WARNER TV
@@ -86,9 +86,9 @@ http://iptv.burhansyam.com/usee/warner.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LzZ0uAH.jpg" group-title="MOVIE",Cinemax
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1373
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mRPAUtq.jpg" group-title="MOVIE",AXN ID
-http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+http://103.47.132.164/PLTV/88888888/224/3221227159/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4rG9XOG.jpg" group-title="MOVIE",Blue Ant Extreme
-https://cdnbpp1.useetv.com/joss/14/blueantextreme/chunklist_w1120841254_b684100_sleng_.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227319/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dZd4ac2.jpg" group-title="MOVIE",Blue Ant Entertainment
 https://edgejt6.useetv.com/joss/14/blueant/chunklist_w1555212600_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G0UtVxS.png" group-title="LIFESTYLE",E!
@@ -146,7 +146,7 @@ https://cdnbpp1.useetv.com/joss/14/nickelodeon/chunklist_w1841719234_b684100_sle
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="KIDS",NICK Junior
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hj5wVQv.png" group-title="Documentary",Crime Investigation
-https://vcdnjt.useetv.com/joss/15/crimeinvestigation/chunklist_w1120526702_b894100_sleng_.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227341/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjW2rO8.png" group-title="Documentary",Animal Planet
 http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/24325
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N17CRG2.jpg" group-title="Documentary",National Geographic Channel ID
