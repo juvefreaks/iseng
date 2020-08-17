@@ -25,8 +25,6 @@ http://103.47.132.164/PLTV/88888888/224/3221227215/2.m3u8
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSWCvIW.png" group-title="LOKAL TV",TV ONE
 http://103.47.132.164/PLTV/88888888/224/3221227213/03.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/1024px-No_image_available.svg.png" group-title="LOKAL TV",MAGNA TV
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1554637099_b3192000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gzrurUh.jpg" group-title="LOKAL TV",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tsBKyky/Daai-tv.png" group-title="LOKAL TV",DAAI TV
