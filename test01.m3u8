@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZESh5E3.png" group-title="LOKAL TV",Net TV
 http://103.47.132.164/PLTV/88888888/224/3221227101/03.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h6OZYzt.png" group-title="LOKAL TV",RCTI
+#EXTINF:-1 tvg-logo="https://m.rctiplus.com/static/logo/rcti-sm.png" group-title="LOKAL TV",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HqnyERS.png" group-title="LOKAL TV",MNCTV
 https://dl.dropbox.com/s/1evj6ayn5eibry1/mnctvsd.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5AqYlmy.png" group-title="LOKAL TV",Global TV
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="LOKAL TV",Global TV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JD41lAU.png" group-title="LOKAL TV",Indosiar
 http://103.47.132.164/PLTV/88888888/224/3221227345/2.m3u8
@@ -18,7 +18,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ooo2QYZ.png" group-title="LOKAL TV",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lVq2642.png" group-title="LOKAL TV",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2013109018_b192000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5BZ6dot.png" group-title="LOKAL TV",ANTV
 http://103.47.132.164/PLTV/88888888/224/3221227215/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLVtGHB.png" group-title="LOKAL TV",KOMPAS TV
@@ -30,16 +30,11 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1554637099_b3192000_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gzrurUh.jpg" group-title="LOKAL TV",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tsBKyky/Daai-tv.png" group-title="LOKAL TV",DAAI TV
-https://dcunilive7-lh.akamaihd.net/i/dclive_1@135498/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1595235700~acl=%2fi%2fdclive_1%40135498*~data=hdntl~hmac=e347928ca227dff43341fc73792d7de39fd188e876b2970ebae907b203a0b1d5#EXTINF:-1 tvg-logo="https://i.ibb.co/2ymXKLn/Jak-tv.png" group-title="LOKAL TV",Jak TV
-https://edgejt6.useetv.com/joss/14/jaktv/chunklist_w1255659419_b684100_sleng_.m3u8
+https://delivery.macan.live/stream/id_daai/playlist.m3u8?token=macangratisan&v=12345
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNi8mkc.png" group-title="LOKAL TV",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XMIQvJN.jpg" group-title="LOKAL TV",BERITA SATU WORLD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/chunklist_b2288000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qmyb6db.png" group-title="LOKAL TV",TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yjcjlr9.jpg" group-title="LOKAL TV",BALI TV
-https://vcdnjt.useetv.com/joss/18/balitv/chunklist_w349493769_b684100_sleng.m3u8?enc=vabuUZ_SJ6k7FexKSuLqKA&exp=1593145379
 #EXTINF:-1 tvg-logo="http://shareloker.com/wp-content/uploads/2019/03/logo_rtv_6830883.jpg" group-title="LOKAL TV",RTV
 https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV-avc1_499968=9-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XpLq449/alquran-Al-Kareem.png" group-title="Religi",Al Quran Al Kareem
