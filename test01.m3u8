@@ -10,7 +10,6 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JD41lAU.png" group-title="LOKAL TV",Indosiar
 http://103.47.132.164/PLTV/88888888/224/3221227345/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oslrZyU.jpg" group-title="LOKAL TV",SCTV
-
 http://103.47.132.164/PLTV/88888888/224/3221227227/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H7m3OeJ.png" group-title="LOKAL TV",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1659887550_b544100_sleng.m3u8
@@ -249,7 +248,7 @@ http://cloudstreaming.mramedia.com:8000/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sFypqIP.png" group-title="RADIO", HARD ROCK FM
 http://cloudstreaming.mramedia.com:8001/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QarMHJ.png" group-title="RADIO", 3DPRINTING
-http://192.168.0.126:8081/video.mjpg
+http://192.168.0.124:8080/?action=stream
 #EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg",TBS TV
 http://203.162.235.41:16907
 #EXTINF:-1 group-title="JAPAN" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/TBS-TV.jpg",BS TBS
