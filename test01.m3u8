@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZESh5E3.png" group-title="LOKAL TV",Net TV
-https://delivery.macan.live/stream/id_nettv/playlist.m3u8?token=macangratisan
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://m.rctiplus.com/static/logo/rcti-sm.png" group-title="LOKAL TV",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HqnyERS.png" group-title="LOKAL TV",MNCTV
@@ -52,7 +52,7 @@ http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/McCzN40/alimantv.png" group-title="Religi",Al-Iman TV
 http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GQBnewN.jpg" group-title="MOVIE",HBO
-https://delivery.macan.live/stream/hbo/playlist.m3u8?token=macangratisan&v=20200807
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/85
 #EXTINF:-1 tvg-logo="https://i.imgur.com/616WMd7.png" group-title="MOVIE",HBO Family
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/86
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uzCFlBA.jpg" group-title="MOVIE",HBO Hits
