@@ -32,7 +32,7 @@ https://cdnjt25.useetv.com/dass/14/daaitv/chunklist_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNi8mkc.png" group-title="LOKAL TV",BERITA SATU.
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qmyb6db.png" group-title="LOKAL TV",TVRI.
-https://cdnjt25.useetv.com/dass/15/tvri/chunklist_b684100_sleng_.m3u8
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="http://shareloker.com/wp-content/uploads/2019/03/logo_rtv_6830883.jpg" group-title="LOKAL TV",RTV.
 https://cdnjt25.useetv.com/dass/14/rtv/chunklist_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XpLq449/alquran-Al-Kareem.png" group-title="Religi",Al Quran Al Kareem.
@@ -52,11 +52,11 @@ http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/McCzN40/alimantv.png" group-title="Religi",Al-Iman TV.
 http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GQBnewN.jpg" group-title="MOVIE",HBO.
-http://103.130.186.138:8800/oxygenplay/hbo/index.m3u8
+https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd
 #EXTINF:-1 tvg-logo="https://tube.hk/images/tv_cache/c/400x400_2hbo_family.jpg" group-title="MOVIE",HBO Family.
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/278px-HBOHits-ASIA.png" group-title="MOVIE",HBO Hits.
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GAJlOtB.png" group-title="MOVIE",HBO Signature.
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XXH5yYc.jpg" group-title="MOVIE",Fox Family Movies.
@@ -126,7 +126,7 @@ http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ieXllut.jpg" group-title="KIDS",ANIPLUS ID
 http://103.148.44.22:5641/ANIPLUS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4vguftk.png" group-title="KIDS",ANIMAX
-https://cdnjt25.useetv.com/joss/14/animax/chunklist_b684100_sleng_.m3u8
+http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/id8XNtI.png" group-title="KIDS",Boomerang
 https://cdnbpp1.useetv.com/joss/14/boomerang/chunklist_w457326905_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0niQrB.png" group-title="KIDS",Nickelodeon
@@ -143,8 +143,7 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 #EXTINF:-1 tvg-logo="https://macan.live/img/natgeowild.png" group-title="Documentary",National Geographic Wild
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AvCQjke.jpg" group-title="Documentary",Discovery Science
-http://securetv.net:8080/vMqxnQ5x5k/7053514584/1276
+ ://securetv.net:8080/vMqxnQ5x5k/7053514584/1276
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CY4VzRF.png" group-title="Documentary",Discovery Turbo
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1275
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p3kBn9D.png" group-title="Documentary",Discovery Channel
