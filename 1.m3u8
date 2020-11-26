@@ -52,7 +52,7 @@ http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/McCzN40/alimantv.png" group-title="Religi",Al-Iman TV.
 http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GQBnewN.jpg" group-title="MOVIE",HBO.
-https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd
+http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tube.hk/images/tv_cache/c/400x400_2hbo_family.jpg" group-title="MOVIE",HBO Family.
 https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/278px-HBOHits-ASIA.png" group-title="MOVIE",HBO Hits.
@@ -88,9 +88,9 @@ https://edgejt6.useetv.com/joss/14/blueant/chunklist_w1555212600_b684100_sleng_.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G0UtVxS.png" group-title="LIFESTYLE",E!
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/15962
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFiXMMO.jpg" group-title="MOVIE",&flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3MieV3i.jpg" group-title="MOVIE",&PRIVE HD
-http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="MOVIE",CELESTIAL MOVIES ID
 https://vcdnjt.useetv.com/joss/14/celestialmovie/chunklist_w1671904161_b684100_sleng_62648.m3u8
 #EXTINF:-1 group-title="NEWS",BBC World News
@@ -112,9 +112,9 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jTlfU98.jpg" group-title="KIDS",Cartoon Network
 http://global.thunderbd.com/79/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jTlfU98.jpg" group-title="KIDS",Spacetoon
-http://103.130.186.138:8800/oxygenplay/spacetoon/index.m3u8
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6h3rYrD.jpg" group-title="KIDS",Disney XD
-http://securetv.net:8080/vMqxnQ5x5k/7053514584/1270
+https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gJKbz2a.jpg" group-title="KIDS",Disney Channel
 http://103.47.132.164/PLTV/88888888/224/3221227183/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OD3qydM.jpg" group-title="KIDS",Disney Junior
