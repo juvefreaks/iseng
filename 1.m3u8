@@ -22,7 +22,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2013109018_b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5BZ6dot.png" group-title="LOKAL TV",ANTV.
 http://210.210.155.35/session/1987d35c-2f13-11eb-b7c6-be93b4dc16ad/qwr9ew/s/s07/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLVtGHB.png" group-title="LOKAL TV",KOMPAS TV.
-https://cdnjt25.useetv.com/dass/15/kompastv/chunklist_b894100_sleng_.m3u8
+http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSWCvIW.png" group-title="LOKAL TV",TV ONE.
 http://210.210.155.35/session/f282fbe2-6910-11ea-b0e3-c81f66f89318/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gzrurUh.jpg" group-title="LOKAL TV",METRO TV.
