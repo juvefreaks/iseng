@@ -62,11 +62,11 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GAJlOtB.png" group-title="MOVIE",HBO Signature.
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XXH5yYc.jpg" group-title="MOVIE",Fox Family Movies.
-http://iptvtree.net:8080/13354/27c12697/157570
+https://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7yAm3c.jpg" group-title="MOVIE",Fox Movies.
 http://103.130.186.138:8800/getstream.m3u8.php?channel=foxmovies
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s8qFOa8.jpg" group-title="MOVIE",Fox Action Movies.
-http://iptvtree.net:8080/13354/27c12697/157575
+https://www.livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k665R8p.jpg" group-title="MOVIE",Fox Crime.
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/95
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZXvTNh.png" group-title="MOVIE",Crime & Investigation
