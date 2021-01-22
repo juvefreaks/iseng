@@ -145,7 +145,8 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 #EXTINF:-1 tvg-logo="https://macan.live/img/natgeowild.png" group-title="Documentary",National Geographic Wild
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
- ://securetv.net:8080/vMqxnQ5x5k/7053514584/1276
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cX7ZRWf/nasa.jpg" group-title="Documentary", NASA
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CY4VzRF.png" group-title="Documentary",Discovery Turbo
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1275
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p3kBn9D.png" group-title="Documentary",Discovery Channel
@@ -166,34 +167,6 @@ http://103.47.132.164/PLTV/88888888/224/3221227115/1.m3u8
 http://103.130.186.138:8800/getstream.m3u8.php?channel==p25zqKMvLJqc&
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4uTQp1H.png" group-title="LIFESTYLE",Asian Food Channel
 http://103.47.132.164/PLTV/88888888/224/3221227191/1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="SPORTS",Bein Sports 1
-http://cdn1.52dvb.xyz:80/5000/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="SPORTS",Bein Sports 2
-http://cdn1.52dvb.xyz:80/5001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="SPORTS",Bein Sports 3
-http://cdn1.52dvb.xyz:80/5002/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="SPORTS",Bein Sports 4
-http://cdn1.52dvb.xyz:80/5003/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="SPORTS",Bein Sports 5
-http://cdn1.52dvb.xyz:80/5004/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="SPORTS",Bein Sports 6
-http://cdn1.52dvb.xyz:80/5005/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="SPORTS",Bein Sports 7
-http://cdn1.52dvb.xyz:80/5006/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="SPORTS",Bein Sports 8
-http://cdn1.52dvb.xyz:80/5007/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="SPORTS",Bein Sports 9
-http://cdn1.52dvb.xyz:80/5008/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="SPORTS",Bein Sports 10
-http://cdn1.52dvb.xyz:80/5009/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="SPORTS",Astro Sports 1
-http://mu03.wanicelife.com:8880/FL2MF790/COY3GJSHZ/59220
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="SPORTS",Astro Sports 2
-http://mu03.wanicelife.com:8880/FL2MF790/COY3GJSHZ/59219
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="SPORTS",Astro Sports 3
-http://mu03.wanicelife.com:8880/FL2MF790/COY3GJSHZ/59218
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="SPORTS",Astro Sports 4
-http://mu03.wanicelife.com:8880/FL2MF790/COY3GJSHZ/59217
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9s6FzV2.png" group-title="RADIO", PRAMBORS
 http://masima.rastream.com/masima-pramborsjakarta
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y7xQQdB.jpg" group-title="RADIO", KIS FM
