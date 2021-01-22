@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZESh5E3.png" group-title="LOKAL TV",Net TV.
-https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
+https://home-tv.web.id/dinda/non_full_siaran.m3u8?channel=vidio-875
 #EXTINF:-1 tvg-logo="https://m.rctiplus.com/static/logo/rcti-sm.png" group-title="LOKAL TV",RCTI.
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HqnyERS.png" group-title="LOKAL TV",MNCTV.
@@ -8,9 +8,9 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-m
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="LOKAL TV",Global TV.
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JD41lAU.png" group-title="LOKAL TV",Indosiar.
-http://103.130.186.138:8800/getstream.m3u8.php?channel=indosiar
+https://home-tv.web.id/dinda/non_full_siaran.m3u8?channel=vidio-205
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oslrZyU.jpg" group-title="LOKAL TV",SCTV.
-http://103.130.186.138:8800/getstream.m3u8.php?channel=sctv
+https://home-tv.web.id/dinda/non_full_siaran.m3u8?channel=usee-sctv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H7m3OeJ.png" group-title="LOKAL TV",TRANS 7.
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JpCqRSU.png" group-title="LOKAL TV",TRANS TV.
@@ -22,21 +22,21 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2013109018_b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5BZ6dot.png" group-title="LOKAL TV",ANTV.
 http://103.130.186.138:8800/getstream.m3u8.php?channel=antv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLVtGHB.png" group-title="LOKAL TV",KOMPAS TV.
-http://185.238.0.145:1313/c/max/kompastv-sd.m3u8
+https://newbonetv.xyz:443/m3u/vidio-kompastv-Banyuwangi1122.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSWCvIW.png" group-title="LOKAL TV",TV ONE.
-http://103.130.186.138:8800/getstream.m3u8.php?channel=tvone
+https://bonev2.xyz:443/oxygen.id/tvone.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gzrurUh.jpg" group-title="LOKAL TV",METRO TV.
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/9270432/127f3846f5ae997056cc17873dc0adca066e059e.png" group-title="LOKAL TV",MAGNA.
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tsBKyky/Daai-tv.png" group-title="LOKAL TV",DAAI TV.
-http://103.130.186.138:8800/getstream.m3u8.php?channel=daaiindonesia
+https://newbonetv.xyz:443/m3u/usee-daaitv-Banyuwangi1122.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNi8mkc.png" group-title="LOKAL TV",BERITA SATU.
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qmyb6db.png" group-title="LOKAL TV",TVRI.
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="http://shareloker.com/wp-content/uploads/2019/03/logo_rtv_6830883.jpg" group-title="LOKAL TV",RTV.
-http://103.130.186.138:8800/getstream.m3u8.php?channel=rtv
+http://bonev2.xyz:80/playlist/vidio-rtv-new-bonetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XpLq449/alquran-Al-Kareem.png" group-title="Religi",Al Quran Al Kareem.
 https://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2MtrDwv/I-Am-Channel.png" group-title="Religi",I AM Channel.
@@ -58,7 +58,7 @@ http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GQBnewN.jpg" group-title="MOVIE",HBO 2.
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/278px-HBOHits-ASIA.png" group-title="MOVIE",HBO Hits.
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GAJlOtB.png" group-title="MOVIE",HBO Signature.
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XXH5yYc.jpg" group-title="MOVIE",Fox Family Movies.
