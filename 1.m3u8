@@ -1,73 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZESh5E3.png" group-title="LOKAL TV",Net TV.
-http://albitv.online/siarang/aLBiTV/indo/net.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZESh5E3.png" group-title="LOKAL TV",Net TV
+https://dl.dropboxusercontent.com/s/3ci7xl3zl7p6r23/NetTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://m.rctiplus.com/static/logo/rcti-sm.png" group-title="LOKAL TV",RCTI
-https://alicaur.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HqnyERS.png" group-title="LOKAL TV",MNCTV.
-http://albitv.online/siarang/aLBiTV/indo/rcti.m3u8
-#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="LOKAL TV",Global TV.
-http://albitv.online/siarang/aLBiTV/indo/global.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JD41lAU.png" group-title="LOKAL TV",Indosiar.
-https://home-tv.web.id/dinda/non_full_siaran.m3u8?channel=vidio-205
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oslrZyU.jpg" group-title="LOKAL TV",SCTV.
-https://home-tv.web.id/dinda/non_full_siaran.m3u8?channel=usee-sctv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H7m3OeJ.png" group-title="LOKAL TV",TRANS 7.
+https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HqnyERS.png" group-title="LOKAL TV",MNCTV
+https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="LOKAL TV",Global TV
+https://dl.dropboxusercontent.com/s/6njzjjfcacin67k/GTV.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JD41lAU.png" group-title="LOKAL TV",Indosiar
+https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oslrZyU.jpg" group-title="LOKAL TV",SCTV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2b8fc230e8f847a.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H7m3OeJ.png" group-title="LOKAL TV",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JpCqRSU.png" group-title="LOKAL TV",TRANS TV.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpCqRSU.png" group-title="LOKAL TV",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ooo2QYZ.png" group-title="LOKAL TV",CNN Indonesia.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ooo2QYZ.png" group-title="LOKAL TV",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lVq2642.png" group-title="LOKAL TV",CNBC Indonesia.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lVq2642.png" group-title="LOKAL TV",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2013109018_b192000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5BZ6dot.png" group-title="LOKAL TV",ANTV.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5BZ6dot.png" group-title="LOKAL TV",ANTV
 http://103.130.186.138:8800/getstream.m3u8.php?channel=antv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLVtGHB.png" group-title="LOKAL TV",KOMPAS TV.
-https://newbonetv.xyz:443/m3u/vidio-kompastv-Banyuwangi1122.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CSWCvIW.png" group-title="LOKAL TV",TV ONE.
-https://bonev2.xyz:443/oxygen.id/tvone.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gzrurUh.jpg" group-title="LOKAL TV",METRO TV.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLVtGHB.png" group-title="LOKAL TV",KOMPAS TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CSWCvIW.png" group-title="LOKAL TV",TV ONE
+https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gzrurUh.jpg" group-title="LOKAL TV",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/9270432/127f3846f5ae997056cc17873dc0adca066e059e.png" group-title="LOKAL TV",MAGNA.
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tsBKyky/Daai-tv.png" group-title="LOKAL TV",DAAI TV.
-https://newbonetv.xyz:443/m3u/usee-daaitv-Banyuwangi1122.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNi8mkc.png" group-title="LOKAL TV",BERITA SATU.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tsBKyky/Daai-tv.png" group-title="LOKAL TV",DAAI TV
+https://dl.dropboxusercontent.com/s/sbqajs5q2jh5cys/DaaiTV.m3u8?dl=0 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNi8mkc.png" group-title="LOKAL TV",BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qmyb6db.png" group-title="LOKAL TV",TVRI.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qmyb6db.png" group-title="LOKAL TV",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-logo="http://shareloker.com/wp-content/uploads/2019/03/logo_rtv_6830883.jpg" group-title="LOKAL TV",RTV.
-http://bonev2.xyz:80/playlist/vidio-rtv-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XpLq449/alquran-Al-Kareem.png" group-title="Religi",Al Quran Al Kareem.
+#EXTINF:-1 tvg-logo="http://shareloker.com/wp-content/uploads/2019/03/logo_rtv_6830883.jpg" group-title="LOKAL TV",RTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XpLq449/alquran-Al-Kareem.png" group-title="Religi",Al Quran Al Kareem
 https://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2MtrDwv/I-Am-Channel.png" group-title="Religi",I AM Channel.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2MtrDwv/I-Am-Channel.png" group-title="Religi",I AM Channel
 http://iamchannel.org:1935/tes/1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G3Mj7m3/Surau-Tv.png" group-title="Religi",Surau TV.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G3Mj7m3/Surau-Tv.png" group-title="Religi",Surau TV
 http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D7QrRKk/ashiil-tv.png" group-title="Religi",Ashiil TV.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D7QrRKk/ashiil-tv.png" group-title="Religi",Ashiil TV
 http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pRsDZcr/Wesal-Tv.png" group-title="Religi",Wesal TV.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pRsDZcr/Wesal-Tv.png" group-title="Religi",Wesal TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yFrhY8g/Rodja-Tv.png" group-title="Religi",Rodja Tv.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFrhY8g/Rodja-Tv.png" group-title="Religi",Rodja Tv
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5GR6Lw8/Ahsan-Tv.png" group-title="Religi",Ahsan TV.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5GR6Lw8/Ahsan-Tv.png" group-title="Religi",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/McCzN40/alimantv.png" group-title="Religi",Al-Iman TV.
+#EXTINF:0 tvg-logo="https://i.ibb.co/McCzN40/alimantv.png" group-title="Religi",Al-Iman TV
 http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GQBnewN.jpg" group-title="MOVIE",HBO.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQBnewN.jpg" group-title="MOVIE",HBO
 http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GQBnewN.jpg" group-title="MOVIE",HBO 2.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQBnewN.jpg" group-title="MOVIE",HBO 2
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/278px-HBOHits-ASIA.png" group-title="MOVIE",HBO Hits.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/278px-HBOHits-ASIA.png" group-title="MOVIE",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GAJlOtB.png" group-title="MOVIE",HBO Signature.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GAJlOtB.png" group-title="MOVIE",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XXH5yYc.jpg" group-title="MOVIE",Fox Family Movies.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXH5yYc.jpg" group-title="MOVIE",Fox Family Movies
 https://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7yAm3c.jpg" group-title="MOVIE",Fox Movies.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7yAm3c.jpg" group-title="MOVIE",Fox Movies
 http://103.130.186.138:8800/getstream.m3u8.php?channel=foxmovies
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s8qFOa8.jpg" group-title="MOVIE",Fox Action Movies.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s8qFOa8.jpg" group-title="MOVIE",Fox Action Movies
 https://www.livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k665R8p.jpg" group-title="MOVIE",Fox Crime.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k665R8p.jpg" group-title="MOVIE",Fox Crime
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/95
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZXvTNh.png" group-title="MOVIE",Crime & Investigation
 http://203.154.243.31:15001
