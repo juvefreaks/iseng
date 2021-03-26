@@ -54,8 +54,6 @@ http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/McCzN40/alimantv.png" group-title="Religi",Al-Iman TV
 http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GQBnewN.jpg" group-title="MOVIE",HBO
-http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GQBnewN.jpg" group-title="MOVIE",HBO 2
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/278px-HBOHits-ASIA.png" group-title="MOVIE",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
@@ -80,7 +78,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3HnmcgD.jpg" group-title="MOVIE",WARNER TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LzZ0uAH.jpg" group-title="MOVIE",Cinemax
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=a87ff679a2f3e71d9181a67b7542122c202cb962ac59075b964b07152d234b70
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mRPAUtq.jpg" group-title="MOVIE",AXN ID
 http://103.47.132.164/PLTV/88888888/224/3221227159/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4rG9XOG.jpg" group-title="MOVIE",Blue Ant Extreme
