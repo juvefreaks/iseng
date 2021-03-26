@@ -164,7 +164,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227113/2.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3gpRLt7" group-title="LIFESTYLE",BBC Lifestyle
 http://103.47.132.164/PLTV/88888888/224/3221227115/1.m3u8
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LIFESTYLE",FASHION TV
-http://103.130.186.138:8800/getstream.m3u8.php?channel==p25zqKMvLJqc&
+https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4uTQp1H.png" group-title="LIFESTYLE",Asian Food Channel
 http://103.47.132.164/PLTV/88888888/224/3221227191/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9s6FzV2.png" group-title="RADIO", PRAMBORS
