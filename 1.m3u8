@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZESh5E3.png" group-title="LOKAL TV",Net TV
 https://dl.dropboxusercontent.com/s/3ci7xl3zl7p6r23/NetTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://m.rctiplus.com/static/logo/rcti-sm.png" group-title="LOKAL TV",RCTI
-https://liveanevia.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
+https://d35d0ifx19oopq.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_450000=4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HqnyERS.png" group-title="LOKAL TV",MNCTV
 https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="LOKAL TV",Global TV
